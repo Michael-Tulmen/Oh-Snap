@@ -11,6 +11,9 @@ function About() {
         style={{ width: "100%" }}
         alt="cover"
       />
+      <div className="my-2">
+        <p>a paragraph describing me!</p>
+      </div>
     </section>
   );
 }
